@@ -1,6 +1,6 @@
 # Devops Environment Setup Simulator
 
-## What this project does
+## Overview
 A simulated DevOps project structure built entirely from the linux terminal
 
 ## Skills used
