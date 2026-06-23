@@ -16,7 +16,7 @@ A simulated DevOps project structure built entirely from the linux terminal
 /opt/devops-project/
 |── README.md
 |── config/
-|   |── app.conf/
+|   |── app.conf
 |   └── db.conf
 |── logs/
 |   └── setup.log
